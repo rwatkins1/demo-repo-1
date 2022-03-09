@@ -1,4 +1,2 @@
 # Demo
-!
-Some description
-!
+I am practicing using github. 
